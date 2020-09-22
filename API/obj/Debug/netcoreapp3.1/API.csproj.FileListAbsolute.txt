@@ -132,3 +132,5 @@ C:\Users\arcemuno\Desktop\Rand React\Reactivities\API\obj\Debug\netcoreapp3.1\st
 C:\Users\arcemuno\Desktop\Rand React\Reactivities\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\arcemuno\Desktop\Rand React\Reactivities\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\arcemuno\Desktop\Rand React\Reactivities\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\arcemuno\Desktop\Rand React\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\arcemuno\Desktop\Rand React\Reactivities\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll

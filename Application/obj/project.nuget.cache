@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9TQMGmq0pNYs+yjV9mRoIzC450ZKHrJEtJDpPX8hvpL7IfzIt5Z53st+N47u0jbgVreKtS/ghWsOdPIfcbQxiA==",
+  "dgSpecHash": "w8bCNIT+Z+QB5JUYxqHkjARWVUtkeQddASaw7gcXMXLX8oCY3K+fyQG/CAE6nYp8aRAT13m4r4A2q5/yW0DqaA==",
   "success": true,
   "projectFilePath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arcemuno\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\arcemuno\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.7\\microsoft.data.sqlite.core.3.1.7.nupkg.sha512",
