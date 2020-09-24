@@ -1,9 +1,15 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "LsCuZWzrRs00sHRQLW0a2wriV8ezpkS+UjK9x9EQfXYkREqT06zUiraZ7m+4zOonK46l8yfnRjppexVhlmM0Hw==",
+=======
+  "dgSpecHash": "kQXrZyw9/kv+bn71/TBXu0Tgd11rQzgi4zJ1z6DSnvygIFB1RPZLuPMFZnjVPKoVLSiwYTlUNf8mK7WDuaYnqw==",
+>>>>>>> Section-4---cram1
   "success": true,
   "projectFilePath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\arcemuno\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\arcemuno\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
