@@ -16,3 +16,12 @@ C:\Users\arcemuno\Desktop\Rand React\Reactivities\Domain\obj\Debug\netstandard2.
 C:\Users\arcemuno\Desktop\Rand React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
 C:\Users\arcemuno\Desktop\Rand React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.dll
 C:\Users\arcemuno\Desktop\Rand React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\arcemuno\Desktop\Proyecto React\Reactivities\Domain\obj\Debug\netstandard2.1\Domain.pdb

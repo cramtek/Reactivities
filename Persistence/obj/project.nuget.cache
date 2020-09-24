@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VrsuAlw2mEjdcRBDvkmmtHRucOhIne+8ANZJJaMtRuCuNeLRILA5WsLagRdw7FrSWBrlMhhnDwFLhtMdN/0RyA==",
+  "dgSpecHash": "/F0gXGcAOs5HWBhcxshRAO4K8K2roQmuXmjhES5/1kC1fh2QGaDPkWm2o1ag80kR5Vm9qt5BsNuKGSyIhm102A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

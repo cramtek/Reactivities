@@ -41,7 +41,11 @@ namespace API
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
 
+            }
+ 
             //app.UseHttpsRedirection();
 
             app.UseRouting();

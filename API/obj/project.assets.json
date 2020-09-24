@@ -1211,11 +1211,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\API\\API.csproj",
+      "projectPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\arcemuno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\API\\obj\\",
+      "outputPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1236,8 +1236,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Application\\Application.csproj"
+            "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

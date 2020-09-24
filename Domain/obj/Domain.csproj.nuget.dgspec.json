@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\Domain.csproj": {}
+    "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\arcemuno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

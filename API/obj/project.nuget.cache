@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5ZBwL7r2kdei9AXrsmnWzIStfOEGUv7+ttmYIpOXNW1up7gVTSAt8M1yEinCFJH0zYQRDFZhdvKHaV48To83AQ==",
+  "dgSpecHash": "LsCuZWzrRs00sHRQLW0a2wriV8ezpkS+UjK9x9EQfXYkREqT06zUiraZ7m+4zOonK46l8yfnRjppexVhlmM0Hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\arcemuno\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

@@ -1306,11 +1306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\arcemuno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1331,8 +1331,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\arcemuno\\Desktop\\Rand React\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\arcemuno\\Desktop\\Proyecto React\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
